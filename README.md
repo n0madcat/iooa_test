@@ -1,3 +1,0 @@
-# iooa_test
-
-Tekst
